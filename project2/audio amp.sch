@@ -214,4 +214,12 @@ Connection ~ 2800 3950
 NoConn ~ 5300 3900
 NoConn ~ 5300 4000
 NoConn ~ 4600 3900
+Wire Bus Line
+	2500 3100 6750 3100
+Wire Bus Line
+	6750 3100 6750 5150
+Wire Bus Line
+	6750 5150 2500 5150
+Wire Bus Line
+	2500 5150 2500 3100
 $EndSCHEMATC
